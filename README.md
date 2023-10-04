@@ -1,5 +1,5 @@
 # Mesa Geo Models
-
+ 
 This repository contains a set of agent-based simulation models developed using the Mesa and GeoMesa frameworks. These models are geared towards understanding various dynamics ranging from classroom interactions to the spread of infections and rumors.
 
 ## Models Overview
